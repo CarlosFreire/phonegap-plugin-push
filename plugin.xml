@@ -93,7 +93,7 @@
             <source url="https://github.com/CocoaPods/Specs.git"/>
         </config>
         <pods>
-            <pod name="Firebase/InstanceId" spec="~> 6.3.0" />
+            <pod name="Firebase/Core" spec="~> 6.3.0" />
             <pod name="Firebase/Messaging" spec="~> 6.3.0" />
         </pods>
     </podspec>
