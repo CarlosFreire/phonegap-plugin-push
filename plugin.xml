@@ -94,6 +94,7 @@
         </config>
         <pods>
             <pod name="Firebase/Messaging" spec="~> 4.1.1" />
+            <pod name="Firebase/Analytics" spec="~> 6.3.0" />
         </pods>
     </podspec>
   </platform>
