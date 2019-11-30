@@ -94,7 +94,7 @@
         </config>
         <pods>
             <pod name="FirebaseInstanceID" spec="~> 4.2.7" />
-            <pod name="Firebase/Messaging" spec="~> 6.0.0" />
+            <pod name="Firebase/Messaging" spec="~> 6.3.0" />
         </pods>
     </podspec>
   </platform>
